@@ -32,7 +32,7 @@ import Select2 from 'vue3-select2-component';
           <div class="input-group mb-3">
             <input
               v-model="phone"
-              type="text"
+              type="number"
               name="phone"
               placeholder="Cth: 082234925007"
             />
